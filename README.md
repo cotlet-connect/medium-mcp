@@ -108,6 +108,7 @@ Medium has no official MCP server. Cotlet.dev is a hosted MCP server that works 
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/medium-mcp)
 - [LobeHub](https://lobehub.com/mcp/cotlet-connect-medium-mcp)
 - [Odel](https://odel.app/modules/cotlet/medium)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/medium/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-medium-to-ai-agents-guide)
 
 ## Also works with
